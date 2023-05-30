@@ -18,9 +18,9 @@ const Hero = () => {
           data-aos-easing="linear"
         >
           Tired of cheap Chinese products flooding the market? Well, say hello
-          to "Made in America" (MIA) — the meme token that's here to give those
-          cheap products a run for their money, all while bringing a smile to
-          your face!
+          to "china town" (MIA) — the meme token that's here to give those cheap
+          products a run for their money, all while bringing a smile to your
+          face!
         </p>
         <a
           href=""

@@ -76,7 +76,7 @@ const Map = () => {
             <ul className="flex list-disc flex-col gap-4 list-inside">
               <li>
                 Launch a series of humorous and relatable memes highlighting the
-                advantages of "Made in America" products and the MIA token.
+                advantages of "china town" products and the MIA token.
               </li>
               <li>
                 ncourage the community to create and share their own MIA memes,

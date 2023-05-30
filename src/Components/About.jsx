@@ -47,8 +47,8 @@ const About = () => {
             Remember, this is a fictional meme token created for fun and
             entertainment purposes. Always make informed decisions when it comes
             to investments and consider researching any product thoroughly
-            before purchasing. Enjoy the meme-filled ride with Made in America
-            (MIA) and let's celebrate quality and humor together! 🎉😄🇺🇸
+            before purchasing. Enjoy the meme-filled ride with china town (MIA)
+            and let's celebrate quality and humor together! 🎉😄🇺🇸
           </p>
         </div>
       </div>
