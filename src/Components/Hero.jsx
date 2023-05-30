@@ -17,10 +17,11 @@ const Hero = () => {
           data-aos="fade-right"
           data-aos-easing="linear"
         >
-          Tired of cheap Chinese products flooding the market? Well, say hello
-          to "china town" (MIA) — the meme token that's here to give those cheap
-          products a run for their money, all while bringing a smile to your
-          face!
+          "Experience the vibrant energy of Chinatown in the world of
+          cryptocurrency with Chinatown Coin. Explore bustling streets, colorful
+          markets, and endless possibilities. Discover a new realm of cultural
+          immersion and untapped potential. Join us on this exciting digital
+          adventure today!"
         </p>
         <a
           href=""
